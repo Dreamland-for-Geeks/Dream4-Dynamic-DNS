@@ -1,0 +1,7 @@
+Add email for support
+implement logger (assign correct levels to methods.)
+correct status code for multirequest.
+improve exception handling in dynamic_dns.py and update_ip_dns.py
+validate that response.json is not empty in case something fails
+multirequest, flag to generate a new url for existing var.
+Add suport for ipv6 (if api is compatible)

@@ -1,0 +1,10 @@
+{
+    "domain-id": [
+        "subdomain.domain.com",
+        "domain.com"
+    ],
+    "domain-id2": [
+        "subdomain2.domain2.com",
+        "domain2.com"
+    ]
+}
