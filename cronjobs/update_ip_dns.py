@@ -2,7 +2,7 @@ import requests
 from utils.common_functions import readfile
 
 def main():
-    file = 'responses/ionos_response.json'
+    file = '..responses/ionos_response.json'
     current_dict = readfile(file)
     for key in current_dict['updateUrl'].keys():
         message = 'Updating public ip for {} domain id'.format(key)
